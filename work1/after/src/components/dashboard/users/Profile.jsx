@@ -1,4 +1,5 @@
-import { setTextInvisible, setTextVisible } from "../../../store";
+// import { setTextInvisible, setTextVisible } from "../../../store";
+import { setTextInvisible, setTextVisible } from "@/store";
 
 const Profile = () => {
   return (
